@@ -1,10 +1,10 @@
-# encrypt-python
+# enc-py2
 ## Install
 $ pkg update && pkg upgrade<br>
 $ pkg install python2<br>
 $ pkg install git<br>
-$ git clone https://github.com/Mark-Zuck/encrypt-python<br>
-$ cd encrypt-python<br>
+$ git clone https://github.com/Mark-Zuck/enc-py2<br> 
+$ cd enc-py2<br>
 ## usage
 ````
 python2 romi.py -i filename.py -o outfile.py
