@@ -7,5 +7,5 @@ $ git clone https://github.com/Mark-Zuck/enc-py2<br>
 $ cd enc-py2<br>
 ## usage
 ````
-python2 romi.py -i filename.py -o outfile.py
+python2 romi.py -i /sdcard/filename.py -o /sdcard/outfile.py
 ````
